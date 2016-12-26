@@ -6,7 +6,7 @@ package personal.pengfeil.leetcodeoj;
 public class KthSmallestInLexicographicalOrder {
     public static void main(String args[]) {
         KthSmallestInLexicographicalOrder kthSmallestInLexicographicalOrder = new KthSmallestInLexicographicalOrder();
-        System.out.println(kthSmallestInLexicographicalOrder.findKthNumber(131, 131));
+        System.out.println(kthSmallestInLexicographicalOrder.findKthNumber(131, 2));
     }
 
     /***
